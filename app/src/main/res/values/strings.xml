@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interview.Lesson1.Converter</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="celsius">Цельсия</string>
+    <string name="fahrenheit">Фаренгейта</string>
+    <string name="to_fahrenheit">В фаренгейты</string>
+</resources>
